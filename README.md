@@ -9,7 +9,7 @@
 I'm a software developer with experience in building scalable, secure, reliable, and maintainable systems. I focus on full-stack development and always aim for quality and simplicity.
 
 Let's Connect
-##### LinkedIn: [linkedin.com/in/mehmetkalayci](https://linkedin.com/in/mehmetkalayci)
+##### LinkedIn: [linkedin.com/in/mmt94](https://linkedin.com/in/mmt94)
 ---
 
 ### 💻 Tech Stack
