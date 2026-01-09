@@ -49,12 +49,3 @@ Let's Connect
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetkalayci&show_icons=true&theme=github_dark" alt="Mehmet Kalaycı's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkalayci&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
